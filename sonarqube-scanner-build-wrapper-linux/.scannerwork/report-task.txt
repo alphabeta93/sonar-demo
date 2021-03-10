@@ -1,0 +1,6 @@
+projectKey=cppdemo
+serverUrl=http://localhost:9000
+serverVersion=7.9.3.33349
+dashboardUrl=http://localhost:9000/dashboard?id=cppdemo
+ceTaskId=AXga9nRJRDT4J_tKpVYE
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXga9nRJRDT4J_tKpVYE
